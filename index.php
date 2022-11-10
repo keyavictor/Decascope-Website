@@ -540,8 +540,7 @@ include './components/team.php';
                     <div class="contact-form-area">
                         <div class="contact-form-header">
                             <div class="left">
-                                <h2 class="title">Get in Touch <span class="text--base">Let's Talk</span></h2>
-                                <p>Credibly grow premier ideas rather than bricks-and-clicks strategic theme areas.</p>
+                                <h2 class="title">Leave a message<span class="text--base">Let's Talk</span></h2>                                
                             </div>
                             <div class="right">
                                 <div class="circle">

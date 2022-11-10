@@ -30,7 +30,7 @@
                             <ul class="footer-contact-list">
                                 <li>
                                     <span class="sub-title ">Write to Us</span>
-                                    <h5 class="link-title text-center"><a href="mailto:">decascopeenterpriseslimited@gmail.com</a></h5>
+                                    <h5 class="link-title text-center"><a href="mailto:info@decascope.co.ke">info@decascope.co.ke</a></h5>
                                 </li>
                             </ul>
                         </div>
@@ -40,7 +40,7 @@
                             <ul class="footer-contact-list">
                                 <li>
                                     <span class="sub-title">Office Hours</span>
-                                    <h4 class="link-title">Mon-Sat 09:00 - 21:00</h4>
+                                    <h4 class="link-title">Mon-Sat 08:00 - 17:00</h4>
                                 </li>
                             </ul>
                         </div>
@@ -52,7 +52,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
                         <div class="footer-widget">
                             <h5 class="title">About us</h5>
-                            <p>Decascope Enterprises Limited is a general trading and incorporated company under the companies Act (Cap. 486) on 3rd September 2021. Decascope is a centre of expert professionals who are dedicated to satisfy our customers.</p>
+                            <p>Decascope Enterprises Limited is a general trading and incorporated company under the companies Act (Cap. 486) on 3rd September 2021.</p>
                             <ul class="footer-social">
                                 <li><a href="#0"><i class="fab fa-facebook-f"></i></a></li>
                                 <li><a href="#0"><i class="fab fa-twitter"></i></a></li>
@@ -65,11 +65,9 @@
                         <div class="footer-widget">
                             <h4 class="title">Explore Decascope</h4>
                             <ul class="footer-list">
-                                <li><a href="#0">Account</a></li>
-                                <li><a href="#0">Privacy Policy</a></li>
-                                <li><a href="#0">Affilitate</a></li>
-                                <li><a href="#0">Program</a></li>
-                                <li><a href="#0">Our Partner</a></li>
+                                <li><a href="about.php">Company</a></li>                                
+                                <li><a href="services_supplies">General Supplies</a></li>
+                                <li><a href="services_it">IT Services</a></li>                                
                             </ul>
                         </div>
                     </div>
@@ -77,11 +75,8 @@
                         <div class="footer-widget">
                             <h5 class="title">Quick Links</h5>
                             <ul class="footer-list">
-                                <li><a href="#0">Account</a></li>
-                                <li><a href="#0">Privacy Policy</a></li>
-                                <li><a href="#0">Affilitate</a></li>
-                                <li><a href="#0">Program</a></li>
-                                <li><a href="#0">Our Partner</a></li>
+                                <li><a href="contact.php">Contact</a></li>
+                                <li><a href="#0">Privacy Policy</a></li>        
                             </ul>
                         </div>
                     </div>
@@ -106,7 +101,7 @@
                         <div class="footer-logo">
                             <a class="site-logo site-title" href="index.php"><img src="assets/images/logo.png" alt="Decascope"></a>
                         </div>
-                        <p>Copyright © 2022 <a href="index.php">Decascope</a>. All Rights Reserved. Developed by <a href="https://blinx.co.ke">Blinx Corporation</a></p>
+                        <p>Copyright &copy 2022 <a href="index.php">Decascope</a>. All Rights Reserved. Developed by <a href="https://blinx.co.ke">Blinx Corporation</a></p>
                     </div>
                 </div>
             </div>
