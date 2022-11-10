@@ -139,7 +139,7 @@ include './components/preloader.php';
                                 </div>
                                 <div class="statistics-content">
                                     <div class="odo-area">
-                                        <h3 class="odo-title odometer" data-odometer-final="10">0</h3>
+                                        <h3 class="odo-title odometer" data-odometer-final="3">0</h3>
                                         <h3 class="title">+</h3>
                                     </div>
                                     <p>Years of Experience</p>
@@ -153,7 +153,7 @@ include './components/preloader.php';
                                 </div>
                                 <div class="statistics-content">
                                     <div class="odo-area">
-                                        <h3 class="odo-title odometer" data-odometer-final="120">0</h3>
+                                        <h3 class="odo-title odometer" data-odometer-final="10">0</h3>
                                         <h3 class="title">+</h3>
                                     </div>
                                     <p>Experienced Employees</p>
@@ -190,15 +190,13 @@ include './components/preloader.php';
             </div>
             <div class="col-xl-6 col-lg-6 mb-30">
                 <div class="overview-content">
-                    <h2 class="title">Our Goals</h2>
-                    <p>In our endeavour to serve you, we purpose to achieve the following goals:
-
-
-                        <li>To provide quality goods and services to clients</li>
-                        <li>To provide reliable products and services</li>
-                        <li>To better and spread technology through software development</li>
-                        <li>To increase the company’s assets and investments to support the development of services</li>
-                    </p>
+                    <h2 class="title">Our Goals</h2>                    
+                        <ul>
+                            <li> Provide quality goods and services to clients</li>
+                            <li>Provide reliable products and services</li>
+                            <li>Better and spread technology through software development</li>
+                            <li>Increase the company’s assets and investments to support the development of services</li>
+                        </ul>                   
                     <div class="overview-btn">
                         <a href="service.php" class="btn--base active">View All Services</a>
                     </div>
@@ -239,15 +237,14 @@ include './components/preloader.php';
             </div>
             <div class="col-md-4 mb-60">
                 <div class="service-item two">
-                    <div class="service-icon">
-                        <!-- <img src="assets/images/icon/academic.png" alt="icon"> -->
+                    <div class="service-icon">                        
                         <i class="fa fa-desktop fa-4x" style="color:rgb(114, 114, 231)"></i>
                     </div>
                     <div class="service-content">
                         <h3 class="title">IT Services</h3>
                         <p>
                             Develop your web presence today. We are here to guide you every step of the way. Decascope offers full-stack web development services to our esteemed customers.
-                    </p>
+                        </p>
                         <div class="service-btn">
                             <a href="service.php" class="custom-btn">Learn More <i class="icon-Group-2361 ml-2"></i></a>
                         </div>
@@ -346,7 +343,7 @@ include './components/team.php';
         <div class="row justify-content-center">
             <div class="col-xl-7 col-lg-8 text-center">
                 <div class="section-header">
-                    <h2 class="section-title">Hear from happy customers</h2>
+                    <h2 class="section-title">We appreciate our customer's feedbacks!</h2>
                     <p>Credibly grow premier ideas rather than bricks-and-clicks strategic theme areas distributed for stand-alone web-readiness.</p>
                 </div>
             </div>
@@ -364,16 +361,16 @@ include './components/team.php';
                                                 <img src="assets/images/client/quote-2.png" alt="client">
                                             </div>
                                             <div class="client-thumb">
-                                                <img src="assets/images/client/client-4.png" alt="client">
+                                                <img src="assets/images/client/client.jpg" alt="client">
                                             </div>
                                         </div>
                                         <div class="client-content">
-                                            <p>We teach martial arts because we love it — not because we want to make money on you. Unlike.</p>
+                                            <p>Very Class A with Class A service by anyone I dealt with at Decascope- I would highly recommend them</p>
                                         </div>
                                         <div class="client-footer">
                                             <div class="client-footer-left">
-                                                <h4 class="title">Randall Schwartz</h4>
-                                                <span class="sub-title">Sr. Consultant</span>
+                                                <h4 class="title">Macharia Dickson</h4>
+                                                <span class="sub-title">Director DIMAMU AGENCIES</span>
                                             </div>
                                         </div>
                                     </div>
@@ -385,16 +382,16 @@ include './components/team.php';
                                                 <img src="assets/images/client/quote-2.png" alt="client">
                                             </div>
                                             <div class="client-thumb">
-                                                <img src="assets/images/client/client-5.png" alt="client">
+                                                <img src="assets/images/client/client.jpg" alt="client">
                                             </div>
                                         </div>
                                         <div class="client-content">
-                                            <p>We teach martial arts because we love it — not because we want to make money on you. Unlike.</p>
+                                            <p>Excellent service and excellent products from start to finish</p>
                                         </div>
                                         <div class="client-footer">
                                             <div class="client-footer-left">
-                                                <h4 class="title">Andru Smith</h4>
-                                                <span class="sub-title">Marketing Manager</span>
+                                                <h4 class="title">Margaret Njoroge</h4>
+                                                <span class="sub-title">Copycat Group</span>
                                             </div>
                                         </div>
                                     </div>
@@ -406,16 +403,16 @@ include './components/team.php';
                                                 <img src="assets/images/client/quote-2.png" alt="client">
                                             </div>
                                             <div class="client-thumb">
-                                                <img src="assets/images/client/client-4.png" alt="client">
+                                                <img src="assets/images/client/client.jpg" alt="client">
                                             </div>
                                         </div>
                                         <div class="client-content">
-                                            <p>We teach martial arts because we love it — not because we want to make money on you. Unlike.</p>
+                                            <p>Decascope Rocks! Their customer service team is great and they were able to resolve my problem days before my deadline. Thank you Decascope</p>
                                         </div>
                                         <div class="client-footer">
                                             <div class="client-footer-left">
-                                                <h4 class="title">Randall Schwartz</h4>
-                                                <span class="sub-title">Sr. Consultant</span>
+                                                <h4 class="title">Winnie Nyambuya</h4>
+                                                <span class="sub-title">Director Winyman Agencies</span>
                                             </div>
                                         </div>
                                     </div>
@@ -440,7 +437,7 @@ include './components/team.php';
                                             <div class="waves wave-3"></div>
                                         </div>
                                     </div>
-                                    <a class="video-icon" data-rel="lightcase:myCollection" href="https://www.youtube.com/embed/LRhrNC-OC0Y">
+                                    <a class="video-icon" data-rel="lightcase:myCollection" href="contact.php">
                                         <i class="las la-play"></i>
                                     </a>
                                 </div>
@@ -476,22 +473,22 @@ include './components/team.php';
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
                                 <div class="brand-item">
-                                    <img src="assets/images/brand/brand-1.png" alt="brand">
+                                    <img src="assets/images/brand/copycat.png" alt="brand">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="brand-item">
-                                    <img src="assets/images/brand/brand-2.png" alt="brand">
+                                    <img src="assets/images/brand/Mombasa.jpg" alt="brand">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="brand-item">
-                                    <img src="assets/images/brand/brand-3.png" alt="brand">
+                                    <img src="assets/images/brand/eastmatt.png" alt="brand">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="brand-item">
-                                    <img src="assets/images/brand/brand-4.png" alt="brand">
+                                    <img src="assets/images/brand/copycat.png" alt="brand">
                                 </div>
                             </div>
                         </div>

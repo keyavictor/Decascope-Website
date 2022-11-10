@@ -120,7 +120,7 @@ include './components/navbar.php';
                     </div>
                     <div class="contact-content">
                         <h3 class="title">Visit Our Office</h3>
-                        <p>SAMPU VILLA, 2nd FLOOR room B7 - Kajiado </p>
+                        <p>SAMPU VILLA <br/>2nd FLOOR room B7 <br> Kajiado CBD</p>
                     </div>
                 </div>
             </div>
@@ -133,7 +133,10 @@ include './components/navbar.php';
                     </div>
                     <div class="contact-content">
                         <h3 class="title">Call Us</h3>
-                        <p><a href="tel:+254712327266">+254 712 327266</a> </p>
+                        <p>
+                            <a href="tel:+254712327266">+254 712327266</a><br>
+                            <a href="tel:+254115432011">+254 115432011</a>
+                        </p>
                     </div>
                 </div>
             </div>
@@ -173,7 +176,7 @@ include './components/navbar.php';
             <div class="row justify-content-center mb-25-none">
                 <div class="col-xl-6 col-lg-6 form-group">
                     <label>Enter Name</label>
-                    <input type="text" name="name" class="form--control" placeholder="Jhon david smith">
+                    <input type="text" name="name" class="form--control" placeholder="First Last">
                 </div>
                 <div class="col-xl-6 col-lg-6 form-group">
                     <label>Email Address</label>
@@ -187,10 +190,11 @@ include './components/navbar.php';
                     <label>Select Subject</label>
                     <div class="contact-select">
                         <select class="form--control">
-                            <option value="1">Web Development</option>
-                            <option value="2">Web Design</option>
-                            <option value="3">Digital Marketing</option>
-                            <option value="4">Search SEO</option>
+                            <option value="1">General Supplies</option>
+                            <option value="2">IT Support</option>
+                            <option value="3">IT Services</option>
+                            <option value="4">Business Consaltancy</option>
+                            <option value="5">Other</option>
                         </select>
                     </div>
                 </div>

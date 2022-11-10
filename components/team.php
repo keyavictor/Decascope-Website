@@ -5,7 +5,7 @@
                 <div class="section-header-wrapper">
                     <div class="section-header">
                         <h2 class="section-title">Decascope Expert Team</h2>
-                        <p>These is great team behind the exemplary service at our company.</p>
+                        <p>We have a team of experienced professionals who will do all it takes to deliver quality work</p>
                     </div>
                     <div class="slider-nav-area">
                         <div class="slider-prev">
@@ -26,38 +26,36 @@
                             <div class="swiper-slide">
                                 <div class="team-item">
                                     <div class="team-thumb">
-                                        <img src="assets/images/team/team-5.png" alt="team">
+                                        <img src="assets/images/team/kevin.jpg" alt="team">
                                         <div class="team-social-area">
-                                            <ul class="team-social">
-                                                <li><a href="#0"><i class="fab fa-facebook-f"></i></a></li>
-                                                <li><a href="#0"><i class="fab fa-twitter"></i></a></li>
-                                                <li><a href="#0"><i class="fab fa-google-plus-g"></i></a></li>
-                                                <li><a href="#0"><i class="fab fa-instagram"></i></a></li>
+                                        <ul class="team-social">
+                                                <li><a href="https://facebook.com/victor.keya.790"><i class="fab fa-facebook-f"></i></a></li>
+                                                <li><a href="https://twitter.com/omwambai_37"><i class="fab fa-twitter"></i></a></li>                                                
+                                                <li><a href="https://instagram.com/omwambai_37"><i class="fab fa-instagram"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div class="team-content">
-                                        <h3 class="title"><a href="team-details.php">Kelvin Wabuti</a></h3>
-                                        <span class="sub-title">Sr. Marketer</span>
+                                        <h3 class="title"><a href="team-details.php">Okana Wamukoya</a></h3>
+                                        <span class="sub-title">Business Development Manager</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="team-item">
                                     <div class="team-thumb">
-                                        <img src="assets/images/team/team-4.png" alt="team">
+                                        <img src="assets/images/team/vicky.jpg" alt="team">
                                         <div class="team-social-area">
                                             <ul class="team-social">
-                                                <li><a href="#0"><i class="fab fa-facebook-f"></i></a></li>
-                                                <li><a href="#0"><i class="fab fa-twitter"></i></a></li>
-                                                <li><a href="#0"><i class="fab fa-google-plus-g"></i></a></li>
-                                                <li><a href="#0"><i class="fab fa-instagram"></i></a></li>
+                                                <li><a href="https://facebook.com/victor.keya.790"><i class="fab fa-facebook-f"></i></a></li>
+                                                <li><a href="https://twitter.com/omwambai_37"><i class="fab fa-twitter"></i></a></li>                                                
+                                                <li><a href="https://instagram.com/omwambai_37"><i class="fab fa-instagram"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div class="team-content">
                                         <h3 class="title"><a href="team-details.php">Victor Keya</a></h3>
-                                        <span class="sub-title">Havey Truck Instructor</span>
+                                        <span class="sub-title">IT Specialist</span>
                                     </div>
                                 </div>
                             </div>
