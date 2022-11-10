@@ -21,3 +21,5 @@ App Testing and Reporting
 Secutiy assesment and Assurance
 
 look at binaline.net and get the idea i want to implent on decascope
+
+look at the spacing on the homepage apo kwa about na goals
