@@ -198,7 +198,7 @@ include './components/preloader.php';
                             <li>Increase the company’s assets and investments to support the development of services</li>
                         </ul>                   
                     <div class="overview-btn">
-                        <a href="service.php" class="btn--base active">View All Services</a>
+                        <a href="services_supplies.php" class="btn--base active">View All Services</a>
                     </div>
                 </div>
             </div>
@@ -508,25 +508,6 @@ include './components/team.php';
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <section class="contact-section two pb-120">
     <div class="container">
-        <div class="contact-element-one">
-            <img src="assets/images/element/element-6.png" alt="element">
-        </div>
-        <div class="contact-element-two">
-            <img src="assets/images/element/element-39.png" alt="element">
-        </div>
-        <div class="contact-element-three">
-            <img src="assets/images/element/element-26.png" alt="element">
-        </div>
-        <div class="contact-element-four">
-            <img src="assets/images/element/element-7.png" alt="element">
-        </div>
-        <div class="contact-area">
-            <div class="contact-element-five">
-                <img src="assets/images/element/element-60.png" alt="element">
-            </div>
-            <div class="contact-element-six">
-                <img src="assets/images/element/element-60.png" alt="element">
-            </div>
             <div class="row mb-30-none">
                 <div class="col-xl-5 col-lg-5 mb-30">
                     <div class="contact-thumb">
