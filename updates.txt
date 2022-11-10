@@ -1,0 +1,23 @@
+the nav bar inapotea for small screens and mobile devices
+For the carosel, unajua vile inafaa kutoshana, alafu add some images that relate to the supplies naandika apa chini
+the team section try and make so that if i add an image it fits
+for customer feedback, kuna that something yenye iko na link ya youtube..toa ako kamtu so that io section ikue only na slider ya testimonials
+alafu io section ya services on the home page needs a different appearence
+
+services1 - supplies
+electronic and ICT accessories
+office equipment and furniture
+office automations and office stationary
+general stationarybuilding materials
+farm inputs
+animal produce/products
+
+service2 - it services
+Network design and implementation
+Web & web app design and development
+Penetration Testing
+IT & IT Security consultation
+App Testing and Reporting
+Secutiy assesment and Assurance
+
+look at binaline.net and get the idea i want to implent on decascope
